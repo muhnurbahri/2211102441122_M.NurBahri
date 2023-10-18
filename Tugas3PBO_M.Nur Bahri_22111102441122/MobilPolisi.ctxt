@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MobilPolisi
+comment1.params=
+comment1.target=void\ nyalakanSirine()
+comment2.params=
+comment2.target=void\ matikanSirine()
+comment3.params=jenis
+comment3.target=void\ gantiSirine(int)
+comment4.params=
+comment4.target=void\ nyalakanRadioHT()
+comment5.params=
+comment5.target=void\ matikanRadioHT()
+numComments=6
